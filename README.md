@@ -1,3 +1,3 @@
 # PrisonPC website
 
-View this site at <https://cyberitsolutions.github.io/www.prisonpc.com/>
+View this site at <https://cyberitsolutions.github.io/www.trimclient.com/>
