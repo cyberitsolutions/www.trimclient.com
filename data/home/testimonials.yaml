@@ -1,10 +1,2 @@
-enabled: true
+enabled: false
 id: "testimonials"
-
-content:
-  title: ""
-
-  featured:
-    image: ""
-    text: "PrisonPC is very popular. It helps develop skills for successful employment, provides an effective internal communication channel and is very cost-effective."
-    client: "Andreas Wullen — Manager, Business & Security Systems, Alexander Maconochie Centre"
