@@ -1,17 +1,17 @@
 baseURL = 'https://trimclient.com/'
 languageCode = 'en-au'
-title = 'PrisonPC'
+title = 'Trimclient'
 theme = 'up-business-theme'
 enableRobotsTXT = true
 summaryLength = 10
 
 [services]
   [services.googleAnalytics]
-    ID = 'G-8D83KW6F5T'
+    ID = 'G-KP2SCYD47P'
 
 [params]
-title = "PrisonPC"
-description = "Secure Prisoner Interactive Learning System"
+title = "Trimclient"
+description = "Secure managed computing for high-accountability environments"
 
 location = [
     "P.O.Box 5178, Hughesdale, Vic 3166, Australia",
@@ -27,8 +27,8 @@ faviconColor = "#3d7ab5"
 [params.social]
 
 [[params.contact]]
-content = "info@prisonpc.com"
-url = "mailto:info@prisonpc.com"
+content = "info@cyber.com.au"
+url = "mailto:info@cyber.com.au"
 [[params.contact]]
 content = "+613 7019 4225"
 url = "tel:+61370194225"
@@ -41,8 +41,8 @@ url = "/security"
 weight = 1
 
 [[menus.main]]
-name = "Planning a facility"
-url = "/planning-a-facility"
+name = "Deployment planning"
+url = "/deployment-planning"
 weight = 2
 
 [[menus.main]]
@@ -51,8 +51,8 @@ url = "/why-consolidated"
 weight = 3
 
 [[menus.main]]
-name = "Library"
-url = "/library"
+name = "Who we serve"
+url = "/who-we-serve"
 weight = 4
 
 [[menus.buttons]]
@@ -72,8 +72,8 @@ url = "/security"
 weight = 2
 
 [[menus.footer]]
-name = "Planning a facility"
-url = "/planning-a-facility"
+name = "Deployment planning"
+url = "/deployment-planning"
 weight = 3
 
 [[menus.footer]]
@@ -82,8 +82,8 @@ url = "/why-consolidated"
 weight = 4
 
 [[menus.footer]]
-name = "Library"
-url = "/library"
+name = "Who we serve"
+url = "/who-we-serve"
 weight = 5
 
 [[menus.footer]]
