@@ -7,21 +7,21 @@ content:
   cards:
     - image: "images/central-management-1.png"
       title: "Central Management"
-      text: "Authorised staff can manage site policies and inmate activities from a secure central location, confident that inmates cannot circumvent policy or evade monitoring."
+      text: "Authorised staff can manage site policies and user activity from a secure central location, confident that users cannot circumvent policy or evade monitoring."
       button:
         label: "Learn more"
         url: "features#secure-central-management"
 
     - image: "images/iptv-1.png"
       title: "Integrated IPTV and Media"
-      text: "Standard free-to-air television, in-house, cable, and audio content is distributed to the inmates' computers, enabling them to select and view individual channels or stations."
+      text: "Standard free-to-air television, in-house, cable, and audio content is distributed to residents' computers, enabling them to select and view individual channels or stations."
       button:
         label: "Learn more"
         url: "features#integrated-iptv-and-media"
 
     - image: "images/web-email-1.png"
       title: "Filtered Web and Email"
-      text: "Providing inmates with restricted access to web and email resources enables correctional facilities to manage the reintegration of inmates as they approach their release date. "
+      text: "Providing users with appropriately restricted access to web and email resources enables facilities to support communication and education while maintaining full policy control."
       button:
         label: "Learn more"
         url: "features#filtered-web-and-email"
@@ -35,14 +35,14 @@ content:
 
     - image: "images/content-delivery-1.png"
       title: "Content Delivery"
-      text: "PrisonPC facilitates the secure delivery of informational and educational content from on-line sources and through in-house education providers."
+      text: "Trimclient facilitates the secure delivery of informational and educational content from online sources and through in-house education providers."
       button:
         label: "Learn more"
         url: "features#content-delivery"
 
     - image: "images/consolidated-1.png"
-      title: "Consolidated In-cell Device"
-      text: "Consolidates television, radio, stereo, gaming consoles, and similar devices into a single unit, reducing costs and opportunity for inmates to hide contraband."
+      title: "Consolidated Device"
+      text: "Consolidates television, radio, and other media devices into a single managed unit, reducing hardware costs and simplifying support across the facility."
       button:
         label: "Learn more"
         url: "features#consolidated-device"

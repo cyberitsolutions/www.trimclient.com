@@ -3,23 +3,23 @@ id: "fork"
 
 content:
   panels:
-    - eyebrow: "Evaluating a full solution"
-      title: "Specifying a PILS for a new or existing facility"
-      text: "You are looking for a comprehensive in-cell interactive system. See the full feature set, security architecture, and deployment model."
-      label: "View full solution"
-      url: "/features"
+    - eyebrow: "Youth detention"
+      title: "Secure computing for youth justice facilities"
+      text: "Education continuity, secure family contact, child-safe content filtering, and staff efficiency gains — built into a single managed platform designed for the youth detention environment."
+      label: "Learn more"
+      url: "/youth-detention"
 
-    - eyebrow: "Looking for a specific capability"
-      title: "IPTV, secure email, or another single feature"
-      text: "PrisonPC provides these as part of a consolidated platform. Understand why a managed approach matters — and what purpose-built looks like."
-      label: "Start here"
-      url: "/why-consolidated"
+    - eyebrow: "Mental health"
+      title: "Managed computing for mental health facilities"
+      text: "A therapeutic environment requires technology that is unobtrusive, reliable, and fully under staff control. Trimclient provides resident access to education, communication, and media without compromising clinical oversight."
+      label: "Learn more"
+      url: "/mental-health"
 
-    - eyebrow: "Designing a facility"
-      title: "Early-stage planning for a new correctional build"
-      text: "Technology assumptions made early in design are hard to reverse. Before committing to a network or device architecture, read this first."
-      label: "Read the brief"
-      url: "/planning-a-facility"
+    - eyebrow: "Call centres"
+      title: "Locked-down workstations for high-compliance environments"
+      text: "Eliminate USB risk, personal browsing, and unsanctioned software. Trimclient delivers a fully auditable, policy-enforced desktop that reduces IT support burden and keeps agents on task."
+      label: "Learn more"
+      url: "/call-centres"
 
   footer:
     text: "Not sure where to start? Contact us directly — we are experienced in helping facilities at any stage of the planning process."

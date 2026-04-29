@@ -2,10 +2,10 @@ enabled: true
 id: "hero"
 
 content:
-  eyebrow: "Secure correctional technology"
+  eyebrow: "Secure managed computing"
   title: "Built for security."
-  subtitle: "Designed for rehabilitation."
-  text: "PrisonPC is a purpose-built managed computing platform for correctional facilities — consolidating IPTV, education, email, and device management into a single hardened solution."
+  subtitle: "Designed for predictable, low-maintenance operation."
+  text: "Trimclient is a purpose-built managed computing platform for high-accountability environments — consolidating device management, education, email, and media into a single hardened solution."
   image: "images/why-consolidated-header.webp"
 
   buttonPrimary:
