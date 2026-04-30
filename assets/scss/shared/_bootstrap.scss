@@ -8,32 +8,32 @@
 $font-family-base: "Inter", sans-serif;
 
 // -- Colour palette -----------------------------------------------------------
-// Navy scale
-$navy-900: #0d1b2a;
-$navy-800: #111f2e;
-$navy-700: #141f2b;
-$navy-600: #1e3048;
-$navy-500: #2d4d68;
-$navy-400: #3d7ab5;
-$navy-300: #6a8aa5;
-$navy-200: #7a99b3;
-$navy-100: #c5d5e4;
-$navy-50:  #e8edf2;
+// Teal scale (light theme)
+$navy-900: #f5f0eb;   // page background (warm off-white)
+$navy-800: #ffffff;   // raised surfaces (cards, navbar)
+$navy-700: #eae5e0;   // subtle surface variant
+$navy-600: #d4e8e6;   // borders
+$navy-500: #5a8a87;   // muted interactive / secondary text
+$navy-400: #026670;   // primary accent (deep teal)
+$navy-300: #5a8a87;   // muted text
+$navy-200: #1a2e2d;   // body text (near-black teal)
+$navy-100: #013d45;   // accent hover (darker teal)
+$navy-50:  #f5f0eb;   // light fill (same as page bg)
 
 // Bootstrap role assignments
-$primary:   $navy-400;   // accent blue — links, buttons, highlights
+$primary:   $navy-400;   // accent teal — links, buttons, highlights
 $secondary: $navy-500;   // muted interactive elements
-$light:     $navy-50;    // light text on dark backgrounds
-$dark:      $navy-900;   // body background
+$light:     $navy-900;   // page background
+$dark:      $navy-200;   // body text
 $danger:    #c0392b;
 $success:   #27ae60;
 $warning:   #f39c12;
-$info:      $navy-300;
+$info:      $navy-500;
 
 // Typography
 $body-bg:              $navy-900;
 $body-color:           $navy-200;
-$headings-color:       $navy-50;
+$headings-color:       $navy-400;
 $link-color:           $navy-400;
 $link-hover-color:     $navy-100;
 
@@ -46,15 +46,15 @@ $border-radius-pill:   0;
 $card-border-radius:   0;
 
 // Navbar
-$navbar-dark-color:          $navy-300;
-$navbar-dark-hover-color:    $navy-50;
-$navbar-dark-active-color:   $navy-50;
-$navbar-dark-brand-color:    $navy-50;
+$navbar-light-color:         $navy-500;
+$navbar-light-hover-color:   $navy-200;
+$navbar-light-active-color:  $navy-400;
+$navbar-light-brand-color:   $navy-400;
+$navbar-dark-color:          $navy-500;
+$navbar-dark-hover-color:    $navy-200;
+$navbar-dark-active-color:   $navy-400;
+$navbar-dark-brand-color:    $navy-400;
 $navbar-padding-y:           1rem;
-$navbar-light-color:         $navy-300;
-$navbar-light-hover-color:   $navy-50;
-$navbar-light-active-color:  $navy-50;
-$navbar-light-brand-color:   $navy-50;
 
 // Cards
 $card-bg:              $navy-800;
@@ -72,16 +72,16 @@ $btn-font-size:          0.8rem;
 $btn-letter-spacing:     0.04em;
 
 // Inputs
-$input-bg:             $navy-800;
-$input-color:          $navy-100;
-$input-border-color:   $navy-500;
-$input-placeholder-color: $navy-300;
-$input-focus-bg:       $navy-700;
-$input-focus-border-color: $navy-400;
-$input-border-radius:  0;
+$input-bg:                  $navy-800;
+$input-color:               $navy-200;
+$input-border-color:        $navy-600;
+$input-placeholder-color:   $navy-500;
+$input-focus-bg:            $navy-800;
+$input-focus-border-color:  $navy-400;
+$input-border-radius:       0;
 
 // Footer
-$footer-bg:            $navy-800;
+$footer-bg:            $navy-700;
 
 // scss-docs-start import-stack
 @import "../../bootstrap/scss/functions";

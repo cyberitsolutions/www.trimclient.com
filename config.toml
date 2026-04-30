@@ -20,9 +20,9 @@ location = [
 copyright = "© 2026 Cyber IT Solutions Pty Ltd"
 
 [params.favicons]
-themeColor = "#0d1b2a"
-backgroundColor = "#0d1b2a"
-faviconColor = "#3d7ab5"
+themeColor = "#026670"
+backgroundColor = "#f5f0eb"
+faviconColor = "#026670"
 
 [params.social]
 
