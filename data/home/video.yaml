@@ -4,4 +4,4 @@ id: "video"
 content:
   text: "New to Trimclient?"
   label: "Watch a brief introduction to the platform"
-  url: "/overview"
+  url: "/who-we-serve" # TODO: update to a Trimclient intro video page when we get one
