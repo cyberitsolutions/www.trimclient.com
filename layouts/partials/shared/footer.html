@@ -6,7 +6,7 @@
         <p class="small mb-0">{{ .Site.Params.description }}</p>
       </div>
       <div class="col-12 col-xl-2 text-center text-xl-start pb-4">
-        <h5 class="fs-6 fw-500 mb-3" style="color: #c5dedd; font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase;">Navigation</h5>
+        <h5 class="fs-6 fw-500 mb-3" style="color: #026670; font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase;">Navigation</h5>
         <ul class="list-unstyled">
           {{ range .Site.Menus.footer }}
             <li class="mb-1">
@@ -16,7 +16,7 @@
         </ul>
       </div>
       <div class="col-12 col-xl-3 text-center text-xl-start pb-4">
-        <h5 class="fs-6 fw-500 mb-3" style="color: #c5dedd; font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase;">Location</h5>
+        <h5 class="fs-6 fw-500 mb-3" style="color: #026670; font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase;">Location</h5>
         <ul class="list-unstyled">
           {{ range .Site.Params.location }}
             <li class="mb-2">
@@ -26,7 +26,7 @@
         </ul>
       </div>
       <div class="col-12 col-xl-3 text-center text-xl-start pb-4">
-        <h5 class="fs-6 fw-500 mb-3" style="color: #c5dedd; font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase;">Contact</h5>
+        <h5 class="fs-6 fw-500 mb-3" style="color: #026670; font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase;">Contact</h5>
         {{ range .Site.Params.contact }}
           <p class="small mb-1">
             {{- if .url -}}
@@ -38,10 +38,10 @@
         {{ end }}
       </div>
     </div>
-    <div class="row" style="border-top: 1px solid #1a3432; padding-top: 1.25rem;">
+    <div class="row" style="border-top: 1px solid #d4e8e6; padding-top: 1.25rem;">
       <div class="col-12">
         {{ with .Site.Params.copyright }}
-          <p class="small text-center mb-0" style="color: #2d6a65;">{{ . | safeHTML }}</p>
+          <p class="small text-center mb-0" style="color: #5a8a87;">{{ . | safeHTML }}</p>
         {{ end }}
       </div>
     </div>
