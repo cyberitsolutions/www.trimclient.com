@@ -12,7 +12,7 @@ A call centre workstation has a narrow, well-defined purpose: to run the applica
 
 ## Agent lockdown
 
-Because Trimclient runs from a read-only, centrally managed operating environment, agents cannot install software, change system settings, or access anything outside the defined application set. The desktop configuration is determined entirely by the facility's administrators, and any change they make — a software update, a new application, a revised policy — is applied consistently across every affected seat the next time it is used. There is no configuration drift, no unauthorised application accumulating over time, and no per-seat variation to investigate when something behaves unexpectedly.
+Because Trimclient runs from a read-only, centrally managed operating environment, agents cannot install software, change system settings, or access anything outside the defined application set. The desktop configuration is determined entirely by the organisation's administrators, and any change they make — a software update, a new application, a revised policy — is applied consistently across every affected seat the next time it is used. There is no configuration drift, no unauthorised application accumulating over time, and no per-seat variation to investigate when something behaves unexpectedly.
 
 Desktops can be grouped into categories (known as realms), each with its own application set, access policy, and curfew schedule. This allows a single Trimclient deployment to serve different teams or functions with appropriately different configurations, managed from the same console.
 
