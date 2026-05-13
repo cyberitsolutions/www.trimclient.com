@@ -6,7 +6,7 @@ content:
   title: "Built for security."
   subtitle: "Designed for predictable, low-maintenance operation."
   text: "Trimclient is a purpose-built managed computing platform for high-accountability environments — consolidating device management, education, email, and media into a single hardened solution."
-  image: "images/why-consolidated-header.webp"
+  image: "images/consolidated-header.webp"
 
   buttonPrimary:
     label: "View full solution"

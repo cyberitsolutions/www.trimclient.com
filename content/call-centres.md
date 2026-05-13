@@ -5,7 +5,7 @@ title: Call centres
 description: "Trimclient delivers locked-down, centrally managed agent workstations that eliminate unauthorised software, USB risk, and data exfiltration while reducing IT support overhead across the floor."
 url: /call-centres
 images:
-- images/features-header.webp
+- images/workstation-header.webp
 ---
 
 A call centre workstation has a narrow, well-defined purpose: to run the applications an agent needs to do their job, nothing else. In practice, standard commercial computers make that constraint difficult to enforce and expensive to maintain. Trimclient enforces it architecturally, across every seat, from a single management console.

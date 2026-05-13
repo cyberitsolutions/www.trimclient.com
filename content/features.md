@@ -2,7 +2,7 @@
 date: "2024-07-19T13:52:10+10:00"
 draft: false
 images:
-- images/features-header.webp
+- images/workstation-header.webp
 title: Features
 description: "An overview of Trimclient's core capabilities: central management, IPTV and media, filtered web and email, print management, and content delivery."
 url: /features

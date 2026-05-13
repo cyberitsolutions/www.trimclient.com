@@ -5,7 +5,7 @@ title: Youth detention
 description: "Trimclient supports education continuity, secure family contact, and child-safe computing in youth detention facilities, without placing additional burden on facility staff."
 url: /youth-detention
 images:
-- images/features-header.webp
+- images/workstation-header.webp
 ---
 
 Young people in detention have the same entitlement to education as those in the community, an acute need for family connection (particularly First Nations young people for whom community ties are integral to identity and wellbeing), and they are in an environment where unmanaged technology carries risks that standard commercial equipment is not designed to address.

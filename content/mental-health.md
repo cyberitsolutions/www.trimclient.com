@@ -5,7 +5,7 @@ title: Mental health facilities
 description: "Trimclient provides residents in long-stay mental health facilities with access to education, media, and family contact, while giving staff the oversight and control they need without intruding on the therapeutic environment."
 url: /mental-health
 images:
-- images/features-header.webp
+- images/workstation-header.webp
 ---
 
 Residents in long-stay mental health facilities have the same need for connection, stimulation, and meaningful activity as anyone else, and the technology that supports those needs should feel like a normal part of their environment rather than an institutional imposition. At the same time, clinical staff require oversight of communications and activity, and facility management requires a computing environment that does not generate its own support burden.

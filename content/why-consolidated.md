@@ -5,7 +5,7 @@ title: Why a consolidated platform
 description: "Trimclient provides IPTV, secure email, managed computers, and more as a single consolidated platform purpose-built for high-accountability environments."
 url: /why-consolidated
 images:
-- images/why-consolidated-header.webp
+- images/consolidated-header.webp
 ---
 
 If you arrived here looking for a specific capability — IPTV for resident rooms, a secure email system, or managed computers for education — you are in the right place. Trimclient provides all of these. But before you evaluate any of them in isolation, it is worth spending a few minutes understanding why each presents challenges that a standalone solution tends to underestimate.
