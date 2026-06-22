@@ -14,7 +14,7 @@ Deploying managed computing in a high-accountability environment is not a trivia
 
 Managing user privileges through physical access to rooms is time-consuming and carries inherent risk. Trimclient allows staff to grant or revoke access to individual services (television, email, web, printing) remotely, without a room visit. Curfews can be automated. Restrictions can be applied passively. Alerts can be broadcast to individuals or groups from a central console.
 
-The email filtering system handles the substantial majority of user correspondence automatically, with only flagged messages requiring staff attention. For facilities processing large volumes of correspondence, this represents a significant reduction in manual review workload.
+Where email monitoring is required, the filtering system handles the substantial majority of correspondence automatically, with only flagged messages requiring staff attention. For organisations processing large volumes of correspondence, this represents a significant reduction in manual review workload.
 
 Remote desktop monitoring and control allows staff to respond to many situations without physical intervention, reducing both the demand on staff time and the need to enter resident areas unnecessarily.
 
