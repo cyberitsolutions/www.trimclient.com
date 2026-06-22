@@ -22,9 +22,10 @@ Remote desktop monitoring and control allows staff to respond to many situations
 
 A single consolidated device per room replaces the collection of televisions, radios, and other appliances that would otherwise need to be individually secured and maintained. Fewer devices means a simpler physical environment and a reduced support burden.
 
-All user activity on the platform is logged. Printed documents are watermarked and archived. Email is filtered and retained. USB and removable media are blocked. The result is a comprehensive audit trail that supports both routine monitoring and retrospective investigation.
+Where required, the platform supports comprehensive audit capabilities: user activity logging, document watermarking and archiving, email retention, and blocking of USB and removable media. These can be enabled selectively, per user or cohort, according to the accountability requirements of the deployment.
 
-The platform's default-deny architecture means that security is enforced structurally, not through ongoing administrative effort. There is no antivirus to update, no per-seat policy to maintain, no configuration that can drift over time. The security posture of every device in the organisaion is identical and verifiable from a single console.
+The platform's default-deny architecture means that security is enforced structurally, not through ongoing administrative effort. There is no antivirus to update, no per-seat policy to maintain, no configuration that can drift over time. The security posture of every device is structurally enforced and verifiable from a single console, with each group or cohort maintaining its own consistent configuration.
+
 
 ## Resident welfare
 
