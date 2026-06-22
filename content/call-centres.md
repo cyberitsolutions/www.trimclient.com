@@ -10,6 +10,8 @@ images:
 
 A call centre workstation has a narrow, well-defined purpose: to run the applications an agent needs to do their job, nothing else. In practice, standard commercial computers make that constraint difficult to enforce and expensive to maintain. Trimclient enforces it architecturally, across every seat, from a single management console.
 
+<iframe src="/infographic/infographic-call-centre.html" width="100%" height="520" frameborder="0" scrolling="no" style="border:none; display:block;"></iframe>
+
 ## Agent lockdown
 
 Because Trimclient runs from a read-only, centrally managed operating environment, agents cannot install software, change system settings, or access anything outside the defined application set. The desktop configuration is determined entirely by the organisation's administrators, and any change they make — a software update, a new application, a revised policy — is applied consistently across every affected seat the next time it is used. There is no configuration drift, no unauthorised application accumulating over time, and no per-seat variation to investigate when something behaves unexpectedly.

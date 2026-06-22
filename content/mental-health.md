@@ -12,6 +12,8 @@ Residents in long-stay mental health facilities have the same need for connectio
 
 Trimclient addresses all of these requirements from a single managed platform, without requiring residents to navigate complex interfaces or staff to become IT administrators.
 
+<iframe src="/infographic/infographic-mental-health.html" width="100%" height="520" frameborder="0" scrolling="no" style="border:none; display:block;"></iframe>
+
 ## Resident access to education and media
 
 A long stay in a residential mental health facility carries a real risk of disengagement and cognitive withdrawal, and structured access to education, media, and communication is a practical countermeasure. Trimclient gives residents access to a controlled range of content — educational programmes, approved websites, television and radio, and family communication — through a straightforward interface that does not draw attention to the infrastructure behind it.

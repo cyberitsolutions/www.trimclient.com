@@ -12,6 +12,8 @@ Young people in detention have the same entitlement to education as those in the
 
 Trimclient is deployed in youth detention centres to provide structured, policy-controlled access to education, communication, and media, managed centrally by staff without requiring ongoing technical intervention at the device level.
 
+<iframe src="/infographic/infographic-youth-detention.html" width="100%" height="520" frameborder="0" scrolling="no" style="border:none; display:block;"></iframe>
+
 ## Education continuity
 
 Disrupted education is one of the most significant factors in poor long-term outcomes for young people who have been through the justice system, and time in detention is an opportunity to address that disruption — but only if the educational environment is stable and consistent.
