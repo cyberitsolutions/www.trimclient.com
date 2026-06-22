@@ -97,3 +97,8 @@ weight = 6
 [module.hugoVersion]
 extended = true
 min = '0.131.0'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

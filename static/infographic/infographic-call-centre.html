@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/css/tabler-icons.min.css">
+<style>
+  body { background: transparent; margin: 0; padding: 8px; font-family: sans-serif; box-sizing: border-box; }
+  .infographic { width: 100%; max-width: 680px; margin: 0 auto; }
+  .top-zone { display: grid; grid-template-columns: 1fr 180px 1fr; gap: 12px; align-items: center; padding: 12px 0; position: relative; }
+  .panel { background: #e1f5ee; border: 0.5px solid #0f6e56; border-radius: 10px; padding: 10px 8px; }
+  .panel-heading { font-size: 9px; font-weight: 500; letter-spacing: 0.08em; color: #085041; text-transform: uppercase; text-align: center; padding-bottom: 6px; border-bottom: 0.5px solid rgba(15,110,86,0.4); margin-bottom: 8px; }
+  .cap-card { background: #1e3a4a; border-radius: 6px; padding: 8px 10px; margin-bottom: 6px; display: flex; align-items: center; gap: 8px; position: relative; z-index: 2; }
+  .cap-card:last-child { margin-bottom: 0; }
+  .cap-card i { font-size: 18px; color: #3dada0; flex-shrink: 0; }
+  .cap-card-title { font-size: 11px; font-weight: 500; color: #d6f0eb; line-height: 1.2; }
+  .cap-card-sub { font-size: 9px; color: #8ecfc7; line-height: 1.3; margin-top: 2px; }
+  .hub { display: flex; align-items: center; justify-content: center; position: relative; z-index: 2; }
+  .hub-circle { width: 150px; height: 150px; border-radius: 50%; background: #026670; border: 1.5px solid #3dada0; box-shadow: 0 0 0 10px rgba(61,173,160,0.1); display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; position: relative; }
+  .hub-circle::after { content: ''; position: absolute; width: 116px; height: 116px; border-radius: 50%; border: 0.5px solid rgba(61,173,160,0.45); pointer-events: none; }
+  .hub-title { font-size: 17px; font-weight: 500; color: #9fe1cb; position: relative; z-index: 1; }
+  .hub-sub { font-size: 9px; color: #5dcaa5; margin-top: 4px; line-height: 1.4; position: relative; z-index: 1; }
+  .connector-svg { position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; z-index: 1; }
+  .divider { height: 1px; background: rgba(61,173,160,0.3); margin: 8px 0; }
+  .strip-wrapper { position: relative; height: 160px; }
+  .benefit-strip { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; position: absolute; top: 0; left: 0; right: 0; bottom: 0; }
+  .benefit-box { background: #f5f0eb; border: 0.5px solid #3dada0; border-radius: 8px; padding: 14px 8px 8px 8px; text-align: center; box-sizing: border-box; display: flex; flex-direction: column; align-items: center; height: 100%; }
+  .benefit-box i { font-size: 24px; color: #026670; opacity: 0.7; margin-bottom: 6px; flex-shrink: 0; }
+  .benefit-title { font-size: 11px; font-weight: 500; color: #026670; flex-shrink: 0; }
+  .benefit-sub { font-size: 9px; color: #5a8a87; margin-top: 6px; line-height: 1.5; }
+  .tagline { position: absolute; top: 108px; left: 20px; right: 20px; background: #026670; border-radius: 4px; text-align: center; padding: 7px 10px; z-index: 2; height: 32px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; }
+  .tagline span { font-size: 10px; font-weight: 500; color: #9fe1cb; }
+</style>
+</head>
+<body>
+<div class="infographic">
+  <div class="top-zone" id="topzone">
+    <div class="panel" id="leftpanel">
+      <div class="panel-heading">Agent capabilities</div>
+      <div class="cap-card"><i class="ti ti-apps"></i><div><div class="cap-card-title">Approved applications</div><div class="cap-card-sub">Only authorised software, nothing else</div></div></div>
+      <div class="cap-card"><i class="ti ti-phone"></i><div><div class="cap-card-title">VoIP &amp; telephony</div><div class="cap-card-sub">SIP/VoIP integration</div></div></div>
+      <div class="cap-card"><i class="ti ti-world"></i><div><div class="cap-card-title">Approved web access</div><div class="cap-card-sub">Policy-defined sites only</div></div></div>
+      <div class="cap-card"><i class="ti ti-printer"></i><div><div class="cap-card-title">Secure print</div><div class="cap-card-sub">Where required, documents may be watermarked and archived</div></div></div>
+    </div>
+    <div class="hub" id="hub">
+      <div class="hub-circle">
+        <div class="hub-title">Trimclient</div>
+        <div class="hub-sub">Secure managed<br>computing platform</div>
+      </div>
+    </div>
+    <div class="panel" id="rightpanel">
+      <div class="panel-heading">Staff &amp; Administration</div>
+      <div class="cap-card"><i class="ti ti-shield"></i><div><div class="cap-card-title">Policy management</div><div class="cap-card-sub">Deploy changes across all seats instantly</div></div></div>
+      <div class="cap-card"><i class="ti ti-user-shield"></i><div><div class="cap-card-title">Remote oversight</div><div class="cap-card-sub">Monitor and control any desktop centrally</div></div></div>
+      <div class="cap-card"><i class="ti ti-usb"></i><div><div class="cap-card-title">USB device control</div><div class="cap-card-sub">Approved peripherals permitted; all others blocked</div></div></div>
+      <div class="cap-card"><i class="ti ti-clipboard-list"></i><div><div class="cap-card-title">Audit logging</div><div class="cap-card-sub">Session-level activity captured for compliance</div></div></div>
+    </div>
+    <svg class="connector-svg" id="connectorsvg"></svg>
+  </div>
+  <div class="divider"></div>
+  <div class="strip-wrapper">
+    <div class="benefit-strip">
+      <div class="benefit-box"><i class="ti ti-trending-up"></i><div class="benefit-title">Agent productivity</div><div class="benefit-sub">Agents see exactly what they need, nothing else</div></div>
+      <div class="benefit-box"><i class="ti ti-lock"></i><div class="benefit-title">Data security</div><div class="benefit-sub">No USB storage, no personal cloud, no exfiltration vectors</div></div>
+      <div class="benefit-box"><i class="ti ti-settings"></i><div class="benefit-title">Operational simplicity</div><div class="benefit-sub">Central deployment replaces per-seat configuration</div></div>
+      <div class="benefit-box"><i class="ti ti-database"></i><div class="benefit-title">Data sovereignty</div><div class="benefit-sub">All data on-premises, no cloud dependency</div></div>
+    </div>
+    <div class="tagline"><span>A single managed platform for agent productivity, compliance, and data security</span></div>
+  </div>
+</div>
+<script>
+function drawConnectors() {
+  const zone = document.getElementById('topzone');
+  const svg = document.getElementById('connectorsvg');
+  const hubEl = document.getElementById('hub');
+  const leftPanel = document.getElementById('leftpanel');
+  const rightPanel = document.getElementById('rightpanel');
+  svg.innerHTML = '';
+  const zoneRect = zone.getBoundingClientRect();
+  const hubRect = hubEl.getBoundingClientRect();
+  const hx = hubRect.left - zoneRect.left + hubRect.width / 2;
+  const hy = hubRect.top - zoneRect.top + hubRect.height / 2;
+  function addLine(x1, y1) {
+    const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+    line.setAttribute('x1', x1); line.setAttribute('y1', y1);
+    line.setAttribute('x2', hx); line.setAttribute('y2', hy);
+    line.setAttribute('stroke', '#3dada0'); line.setAttribute('stroke-width', '0.8'); line.setAttribute('opacity', '0.55');
+    svg.appendChild(line);
+  }
+  leftPanel.querySelectorAll('.cap-card').forEach(card => { const r = card.getBoundingClientRect(); addLine(r.right - zoneRect.left, r.top - zoneRect.top + r.height / 2); });
+  rightPanel.querySelectorAll('.cap-card').forEach(card => { const r = card.getBoundingClientRect(); addLine(r.left - zoneRect.left, r.top - zoneRect.top + r.height / 2); });
+}
+setTimeout(drawConnectors, 600);
+window.addEventListener('resize', drawConnectors);
+</script>
+</body>
+</html>
