@@ -26,7 +26,7 @@ Trimclient integrates with VoIP and SIP backends, making it a practical fit for 
 
 Data exfiltration in a call centre environment typically occurs through one of a small number of vectors: USB storage, personal cloud services, personal email, or unauthorised screen capture. Trimclient removes all of these structurally. There is no writable USB access, no ability to reach personal cloud or webmail services outside approved policy, and no mechanism for installing screen capture software.
 
-Email used for business purposes passes through content filtering and archiving regardless of direction. Attachments are scanned, policy-defined phrases and patterns can trigger review, and all correspondence is retained for the period required by the organisation's compliance obligations. This provides the audit trail that compliance, legal, and operations teams require without any additional tooling or manual process.
+Where restricted email is required, content filtering and archiving can be enabled. Policy-defined phrases and patterns can trigger review, and correspondence can be retained for the period required by the organisation's compliance obligations. This provides the audit trail that compliance, legal, and operations teams require without any additional tooling or manual process.
 
 ## Reduced IT support burden
 
