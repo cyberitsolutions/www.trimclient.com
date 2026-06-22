@@ -14,25 +14,25 @@ If you arrived here looking for a specific capability — IPTV for resident room
 
 ## IPTV in a secure facility
 
-Delivering television to resident rooms sounds straightforward. In a standard commercial or residential environment it is; in a secure facility, it is not.
+Delivering television to resident rooms sounds straightforward. In a standard commercial or residential environment it is; in a secure site, it is not.
 
 Consider what a conventional IPTV deployment requires in each room: a set-top box or smart television, a remote control, power and signal cabling, and some means of restricting access to approved channels. Each of those elements introduces questions a standard IPTV vendor is unlikely to have considered:
 
 - How does staff remotely revoke an individual resident's television access as a disciplinary or clinical measure, without entering the room?
-- How are curfews enforced automatically across the facility?
-- How is free-to-air content that conflicts with facility policy blocked before it reaches the room?
+- How are curfews enforced automatically across the premises?
+- How is free-to-air content that conflicts with policy blocked before it reaches the room?
 - How is content cached and made available for time-shifted viewing?
 - How is the hardware audited to confirm it has not been modified?
 
 A purpose-built consolidated platform answers all of these questions by design. IPTV is one of numerous integrated capabilities, managed from the same staff console, under the same security policy, on the same hardened hardware.
 
-## Secure email in a secure facility
+## Secure email in a high-accountability environment
 
 The instinct when procuring secure resident email is often to look for a server-side application: something that filters outgoing messages and logs correspondence. That addresses part of the problem.
 
 What it typically does not address is the client side: what device is the resident using to compose and send email? If it is a general-purpose computer, you have introduced a device capable of far more than email, including activities your email filter will never see.
 
-Effective secure email in a high-accountability environment requires the client to be as controlled as the server: no local storage of messages, no ability to screenshot content, a restricted addressee list enforced at the server level, and deep content filtering that operates on both inbound and outbound correspondence before it reaches the resident or leaves the facility.
+Where secure email is required, the client needs to be as controlled as the server: no local storage of messages, no ability to screenshot content, and addressee lists and content filtering configurable at the server level.
 
 That is not a standalone email application. That is a managed client platform with email as one of its capabilities.
 
@@ -42,6 +42,6 @@ The pattern is the same in both cases, and it applies equally to web access, pri
 
 A consolidated platform does not just bundle these capabilities together for convenience. It means a single security policy, a single management console, a single hardware platform with a known and audited configuration, and a single point of accountability when something needs to change.
 
-For facilities where staff oversight, resident welfare, and operational efficiency are genuine priorities rather than background considerations, that consolidation is not a nice-to-have. It is the architecture that makes the rest of it work.
+For organisations where staff oversight, resident welfare, and operational efficiency are genuine priorities rather than background considerations, that consolidation is not a nice-to-have. It is the architecture that makes the rest of it work.
 
 {{< cta a="View full feature overview" a-url="/features" b="Deployment planning" b-url="/deployment-planning" c="Get in touch" c-url="/#enquiries" >}}

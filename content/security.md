@@ -8,7 +8,9 @@ description: "Trimclient is designed from the ground up with security as its fou
 url: /security
 ---
 
-Trimclient employs a [multi-layered default-deny](https://en.wikipedia.org/wiki/Defense_in_depth_(computing)) security policy throughout. Each layer is designed to operate independently, so that if one mechanism is bypassed, the layers beneath it continue to protect the system. No single point of failure exposes the facility to risk.
+Trimclient employs a [multi-layered default-deny](https://en.wikipedia.org/wiki/Defense_in_depth_(computing)) security policy throughout. Each layer is designed to operate independently, so that if one mechanism is bypassed, the layers beneath it continue to protect the system. No single point of failure exposes the environment to risk.
+
+The capabilities described on this page are available across all Trimclient deployments. Which are enabled, and how strictly they are applied, depends on the requirements of the deployment: different environments, cohorts, and organisations will configure the platform differently. A call centre and a youth detention facility will share the same underlying architecture while presenting very different experiences to their respective users.
 
 The security architecture covers the full stack: desktop hardware, physical peripherals, server infrastructure, network topology, device connectivity, and media access. Each is addressed by design, not by policy alone.
 

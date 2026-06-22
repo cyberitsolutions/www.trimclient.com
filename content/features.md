@@ -10,7 +10,7 @@ url: /features
 
 # Secure central management
 
-Authorised staff can manage site policies and user desktops from a secure central location. Users cannot circumvent policy, evade monitoring, or access capabilities beyond what staff have explicitly permitted.
+Authorised staff can manage site policies and user desktops from a secure central location. Users cannot circumvent policy or access capabilities beyond what staff have explicitly permitted.
 
 Trimclient is designed to give staff flexibility. Routine tasks and many responses to incidents can be handled remotely, without requiring a room visit. This reduces workload and avoids placing staff in unnecessarily difficult situations.
 
@@ -44,7 +44,7 @@ Trimclient runs applications on the local desktop hardware while preventing user
 
 # Integrated IPTV and media
 
-Free-to-air television and radio content is distributed to user desktops, with staff able to block specific programmes or channels that conflict with facility policy. Content can also be cached and time-shifted for scheduled delivery.
+Free-to-air television and radio content is distributed to user desktops, with staff able to block specific programmes or channels that conflict with site policy. Content can also be cached and time-shifted for scheduled delivery.
 
 ## Closed-circuit channels
 
@@ -54,7 +54,7 @@ Facilities can broadcast video and audio on internal channels accessible to all 
 
 Where desktops are equipped with optical drives, users can access audio CDs and video DVDs that have been explicitly approved by staff. Unapproved optical media is rejected automatically. All USB storage devices are blocked regardless of content.
 
-Staff are encouraged to use internal IPTV channels for media distribution where possible. This provides greater control, removes the handling of physical media, and eliminates physical media as a potential source of policy violations within the facility.
+Staff are encouraged to use internal IPTV channels for media distribution where possible. This provides greater control, removes the handling of physical media, and eliminates physical media as a potential source of policy violations.
 
 ---
 
@@ -62,9 +62,11 @@ Staff are encouraged to use internal IPTV channels for media distribution where 
 
 ## Email
 
-The Trimclient email service gives staff individual control over each user's correspondence. Each user has their own approved addressee list, which staff can configure independently. Addresses can be designated as privileged (delivered without staff review, such as legal representatives) or trusted (with attachments permitted, such as education providers). All other correspondence is subject to deep content filtering.
+The email system is configurable from no restrictions through to full monitoring and archiving, on a per-user or per-cohort basis.
 
-Each message — inbound and outbound — passes through the filtering mechanism before delivery. Messages that fail the filter are automatically quarantined for staff review; staff can approve or reject them before delivery.
+Where monitoring is enabled, staff have individual control over each user's correspondence. Each user has their own approved addressee list, which staff can configure independently. Addresses can be designated as privileged (delivered without staff review, such as legal representatives) or trusted (with attachments permitted, such as education providers). All other correspondence is subject to deep content filtering.
+
+Each message, both inbound and outbound, passes through the filtering mechanism before delivery. Messages that fail the filter are automatically quarantined for staff review; staff can approve or reject them before delivery.
 
 The filtering mechanism handles the substantial majority of correspondence automatically. All non-privileged correspondence is archived regardless of filter outcome, giving staff full visibility of user communications at any time.
 
@@ -76,7 +78,7 @@ Users can be selectively granted access to a limited list of approved websites, 
 
 # Print management
 
-All documents printed by users are watermarked with the identity of the user who printed them, regardless of the application used. Electronic copies are retained automatically in secure storage, inaccessible to users, for staff review.
+Where print monitoring is required, documents printed by users are watermarked with the identity of the user who printed them, regardless of the application used. Electronic copies are retained automatically in secure storage, inaccessible to users, for staff review.
 
 ---
 

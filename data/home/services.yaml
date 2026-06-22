@@ -7,7 +7,7 @@ content:
   cards:
     - image: "images/central-management-1.png"
       title: "Central Management"
-      text: "Authorised staff can manage site policies and user activity from a secure central location, confident that users cannot circumvent policy or evade monitoring."
+      text: "Authorised staff can manage site policies and user activity from a secure central location, confident that users cannot circumvent policy or access capabilities beyond what staff have explicitly permitted."
       button:
         label: "Learn more"
         url: "features#secure-central-management"
@@ -21,14 +21,14 @@ content:
 
     - image: "images/web-email-1.png"
       title: "Filtered Web and Email"
-      text: "Providing users with appropriately restricted access to web and email resources enables facilities to support communication and education while maintaining full policy control."
+      text: "Providing users with appropriately restricted access to web and email resources enables organisations to support communication and education while maintaining full policy control."
       button:
         label: "Learn more"
         url: "features#filtered-web-and-email"
 
     - image: "images/print-1.png"
       title: "Print Management"
-      text: "All printed documents are marked with clear identification of who printed the document and electronic copies are automatically retained for later staff review."
+      text: "Where print monitoring is required, printed documents are marked with the identity of the user who printed them, and electronic copies are automatically retained for staff review."
       button:
         label: "Learn more"
         url: "features#print-management"
@@ -42,7 +42,7 @@ content:
 
     - image: "images/consolidated-1.png"
       title: "Consolidated Device"
-      text: "Consolidates television, radio, and other media devices into a single managed unit, reducing hardware costs and simplifying support across the facility."
+      text: "Consolidates television, radio, and other media devices into a single managed unit, reducing hardware costs and simplifying support across the site."
       button:
         label: "Learn more"
         url: "features#consolidated-device"
