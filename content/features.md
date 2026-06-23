@@ -24,7 +24,7 @@ Desktop access is restricted according to a predefined schedule. During curfew p
 
 Individual services (television, printing, web browsing) can have independent curfew schedules applied, giving staff granular control over which capabilities are available at any given time.
 
-## Passive discipline
+## Remote access management
 
 Staff can suspend individual user privileges (email, television, web access, and others) directly from the management console, without visiting the room. Suspensions can be applied to individual users or to groups.
 
