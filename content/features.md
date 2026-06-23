@@ -76,6 +76,8 @@ The filtering mechanism handles the substantial majority of correspondence autom
 
 Users can be selectively granted access to a limited list of approved websites, such as distance education providers or approved external resources. Attempts to access unapproved sites are blocked and logged.
 
+Beyond monitoring and compliance, filtered web and email access also reduces the risk of data exfiltration. Where users cannot reach personal cloud services, webmail, or unapproved external sites, the channels through which sensitive data most commonly leaves an organisation are removed by policy rather than relying on user behaviour or endpoint detection.
+
 ---
 
 # Print management
