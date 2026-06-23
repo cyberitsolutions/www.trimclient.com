@@ -50,4 +50,4 @@ All user sessions are logged in full. Staff can review session logs retrospectiv
 
 > "Security best practices aren't aspirational goals, they're the baseline of professional competence. They aren't the ceiling you reach for, they're the floor you stand on."
 >
-> — Barry Anderson, Security Architect, Cisco Systems
+> - Barry Anderson, Security Architect, Cisco Systems

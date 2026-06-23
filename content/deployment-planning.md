@@ -35,7 +35,7 @@ Some of the risks addressed by a purpose-built managed platform:
 
 ## The right time to consider this
 
-If you are in the early stages of designing or procuring a site — at concept, schematic, or design development stage — now is the right time to understand how managed computing affects your network design, room layout, furniture specification, and operational model.
+If you are in the early stages of designing or procuring a site (e.g., at concept, schematic, or design development stage) now is the right time to understand how managed computing affects your network design, room layout, furniture specification, and operational model.
 
 If your design is more advanced, it is still worth understanding what is possible and what the constraints of your current assumptions are. Retrofitting is harder, but it is not always impossible.
 

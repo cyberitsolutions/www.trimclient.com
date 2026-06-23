@@ -18,9 +18,9 @@ Trimclient is deployed in youth detention centres to provide structured, policy-
 
 ## Education continuity
 
-Disrupted education is one of the most significant factors in poor long-term outcomes for young people who have been through the justice system, and time in detention is an opportunity to address that disruption — but only if the educational environment is stable and consistent.
+Disrupted education is one of the most significant factors in poor long-term outcomes for young people who have been through the justice system, and time in detention is an opportunity to address that disruption, but only if the educational environment is stable and consistent.
 
-Trimclient integrates with learning management systems used by in-house education providers, so a young person's progress is tracked and preserved regardless of staffing changes or disruptions to the programme. If a young person is mid-way through a unit, they continue from where they left off. The platform supports self-paced online learning, structured classroom delivery, and access to approved external education providers, all from the same managed device. Staff control what educational content and applications are available, to whom, and when, with changes applied centrally without physical access to devices. Desktops can be grouped into realms — each with its own application set and access policy — so that different cohorts (by age, programme, or privilege level) can have appropriately different environments managed from the same console.
+Trimclient integrates with learning management systems used by in-house education providers, so a young person's progress is tracked and preserved regardless of staffing changes or disruptions to the programme. If a young person is mid-way through a unit, they continue from where they left off. The platform supports self-paced online learning, structured classroom delivery, and access to approved external education providers, all from the same managed device. Staff control what educational content and applications are available, to whom, and when, with changes applied centrally without physical access to devices. Desktops can be grouped into realms, each with its own application set and access policy, so that different cohorts (by age, programme, or privilege level) can have appropriately different environments managed from the same console.
 
 ## Family contact
 
@@ -36,7 +36,7 @@ Trimclient enforces content filtering centrally, at the platform level. There ar
 
 ## Device misuse
 
-Standard commercial computers in a youth detention environment present risks that are difficult to manage through policy alone. USB ports allow unapproved content in and data out, software can be installed, and system settings can be changed — and none of these risks requires malicious intent to materialise, since curiosity is sufficient.
+Standard commercial computers in a youth detention environment present risks that are difficult to manage through policy alone. USB ports allow unapproved content in and data out, software can be installed, and system settings can be changed, and none of these risks requires malicious intent to materialise since curiosity is sufficient.
 
 Trimclient's architecture removes these risks structurally. There is no writable storage; USB storage access is controlled by policy, software cannot be installed, and system configuration cannot be modified. The device state is identical at every login. What a young person can do on the device is exactly what staff have permitted, nothing more.
 

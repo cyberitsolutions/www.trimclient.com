@@ -16,7 +16,7 @@ A call centre workstation has a narrow, well-defined purpose: to run the applica
 
 ## Agent lockdown
 
-Because Trimclient runs from a read-only, centrally managed operating environment, agents cannot install software, change system settings, or access anything outside the defined application set. The desktop configuration is determined entirely by the organisation's administrators, and any change they make — a software update, a new application, a revised policy — is applied consistently across every affected seat the next time it is used. There is no configuration drift, no unauthorised application accumulating over time, and no per-seat variation to investigate when something behaves unexpectedly.
+Because Trimclient runs from a read-only, centrally managed operating environment, agents cannot install software, change system settings, or access anything outside the defined application set. The desktop configuration is determined entirely by the organisation's administrators, and any change they make (e.g., software update, a new application, a revised policy) is applied consistently across every affected seat the next time it is used. There is no configuration drift, no unauthorised application accumulating over time, and no per-seat variation to investigate when something behaves unexpectedly.
 
 Desktops can be grouped into categories (known as realms), each with its own application set, access policy, and curfew schedule. This allows a single Trimclient deployment to serve different teams or functions with appropriately different configurations, managed from the same console.
 
@@ -34,7 +34,7 @@ Where restricted email is required, content filtering and archiving can be enabl
 
 ## Reduced IT support burden
 
-Because the operating environment is immutable and centrally managed, the class of support issues that dominates standard desktop environments simply does not arise. There is nothing to corrupt, nothing to misconfigure, and nothing that can accumulate into an unstable state over time. When an agent's device needs attention, replacing it requires no configuration at the device level — the replacement is operational as soon as it is connected.
+Because the operating environment is immutable and centrally managed, the class of support issues that dominates standard desktop environments simply does not arise. There is nothing to corrupt, nothing to misconfigure, and nothing that can accumulate into an unstable state over time. When an agent's device needs attention, replacing it requires no configuration at the device level, the replacement is operational as soon as it is connected.
 
 Software updates, application changes, and policy adjustments are deployed centrally and take effect across the entire floor immediately. There are no scheduled maintenance windows for individual workstations and no need for technicians to visit seats for routine changes.
 

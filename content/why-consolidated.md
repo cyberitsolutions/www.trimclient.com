@@ -8,7 +8,7 @@ images:
 - images/consolidated-header.webp
 ---
 
-If you arrived here looking for a specific capability — IPTV for resident rooms, a secure email system, or managed computers for education — you are in the right place. Trimclient provides all of these. But before you evaluate any of them in isolation, it is worth spending a few minutes understanding why each presents challenges that a standalone solution tends to underestimate.
+If you arrived here looking for a specific capability such as IPTV for resident rooms, a secure email system, or managed computers for education, then you are in the right place. Trimclient provides all of these. But before you evaluate any of them in isolation, it is worth spending a few minutes understanding why each presents challenges that a standalone solution tends to underestimate.
 
 ## IPTV in a secure facility
 
