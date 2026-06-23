@@ -5,7 +5,7 @@ content:
   panels:
     - eyebrow: "Youth detention"
       title: "Secure computing for youth justice facilities"
-      text: "Education continuity, secure family contact, child-safe content filtering, and staff efficiency gains — built into a single managed platform designed for the youth detention environment."
+      text: "Education continuity, secure family contact, child-safe content filtering, and staff efficiency gains built into a single managed platform designed for the youth detention environment."
       label: "Learn more"
       url: "/youth-detention"
 
@@ -22,6 +22,6 @@ content:
       url: "/call-centres"
 
   footer:
-    text: "Not sure where to start? Contact us directly — we are experienced in helping organisations at any stage of the planning process."
+    text: "Not sure where to start? Contact us directly, we are experienced in helping organisations at any stage of the planning process."
     label: "Get in touch"
     url: "/#contact"
