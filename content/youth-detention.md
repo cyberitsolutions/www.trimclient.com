@@ -13,7 +13,7 @@ Young people in detention have the same entitlement to education as those in the
 Trimclient is deployed in youth detention centres to provide structured, policy-controlled access to education, communication, and media, managed centrally by staff without requiring ongoing technical intervention at the device level.
 
 <div style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
-   <iframe src="/infographic/infographic-youth-detention.html" width="900" height="520" frameborder="0" scrolling="no" style="border:none; display:block;"></iframe>
+   <iframe src="/infographic/infographic-youth-detention.html" width="100%" style="min-width: 680px;" height="520" frameborder="0" scrolling="no" style="border:none; display:block;"></iframe>
 </div>
 
 ## Education continuity
