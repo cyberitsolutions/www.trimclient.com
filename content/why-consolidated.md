@@ -10,8 +10,6 @@ images:
 
 If you arrived here looking for a specific capability — IPTV for resident rooms, a secure email system, or managed computers for education — you are in the right place. Trimclient provides all of these. But before you evaluate any of them in isolation, it is worth spending a few minutes understanding why each presents challenges that a standalone solution tends to underestimate.
 
-![Trimclient — a single managed platform for education, communication, entertainment, and security control](/images/infographic.png)
-
 ## IPTV in a secure facility
 
 Delivering television to resident rooms sounds straightforward. In a standard commercial or residential environment it is; in a secure site, it is not.
