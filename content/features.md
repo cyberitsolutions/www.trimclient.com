@@ -8,6 +8,8 @@ description: "An overview of Trimclient's core capabilities: central management,
 url: /features
 ---
 
+Trimclient was developed for adult corrections and is now deployed across a range of managed environments, including youth detention, mental health facilities, call centres, and others. The capabilities described on this page are available across all deployments; which are enabled, and how they are configured, depends on the requirements of the site. A call centre and a youth detention facility share the same underlying platform while presenting very different experiences to their respective users (referred to throughout as "residents" or "clients" depending on your environment).
+
 # Secure central management
 
 Authorised staff can manage site policies and user desktops from a secure central location. Users cannot circumvent policy or access capabilities beyond what staff have explicitly permitted.
