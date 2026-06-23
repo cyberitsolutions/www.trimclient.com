@@ -26,7 +26,7 @@ Trimclient integrates with VoIP and SIP backends, making it a practical fit for 
 
 ## Data security and compliance
 
-Data exfiltration in a call centre environment typically occurs through one of a small number of vectors: USB storage, personal cloud services, personal email, or unauthorised screen capture. Trimclient removes all of these structurally. There is no writable USB access, no ability to reach personal cloud or webmail services outside approved policy, and no mechanism for installing screen capture software.
+Data exfiltration in a call centre environment typically occurs through one of a number of vectors: USB storage, personal cloud services, personal email, unauthorised screen capture, or malware and ransomware. Trimclient's architecture addresses all of these structurally. USB storage can be blocked, personal cloud services and webmail unreachable outside of approved sites, screen capture software cannot be installed, and the immutable operating environment precludes malware and ransomware entirely. Because there is no writable storage and no ability to install software, malware has nowhere to persist and ransomware has nothing to encrypt.
 
 Where restricted email is required, content filtering and archiving can be enabled. Policy-defined phrases and patterns can trigger review, and correspondence can be retained for the period required by the organisation's compliance obligations. This provides the audit trail that compliance, legal, and operations teams require without any additional tooling or manual process.
 
