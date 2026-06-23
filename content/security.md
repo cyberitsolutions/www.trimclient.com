@@ -16,9 +16,9 @@ The security architecture covers the full stack: desktop hardware, physical peri
 
 ## Desktop security
 
-Trimclient desktops contain no writable storage: no hard drive, no USB storage, no writable optical media. The operating environment is read-only and immutable. Users cannot install software, modify system configuration, or persist any changes across sessions. The desktop state is identical at every login.
+Trimclient desktops can fully operate without any local writable storage; no hard drive, no USB storage, no writable optical media. The operating environment is read-only and immutable. Users cannot install software, modify system configuration, or persist any changes across sessions. The desktop state is identical at every login.
 
-This architecture makes the desktops inherently resistant to malware, keyloggers, spyware, and any attempt at unauthorised software installation — not because of antivirus software, but because there is nothing to write to.
+This architecture makes the desktops inherently resistant to malware, keyloggers, spyware, and any attempt at unauthorised software installation. Not because of antivirus software, but because there is nothing to write to.
 
 ## Physical security
 
