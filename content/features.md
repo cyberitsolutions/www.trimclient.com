@@ -36,7 +36,7 @@ Trimclient consolidates television, radio, education, email, web access, and ent
 
 From the secure console, staff can broadcast alerts to individual users or groups, remotely monitor or control any desktop, and power up, shut down, or entirely disable individual desktops or groups — all without a room visit where the situation allows it.
 
-Trimclient runs applications on the local desktop hardware while preventing users from accessing the underlying operating system or modifying any software.
+Trimclient runs applications on the local desktop hardware (rather than streaming a remote display from a centralised server, as with Citrix and similar solutions), while preventing users from accessing the underlying operating system or modifying any software. Running applications locally means the platform scales without adding server capacity for compute, and users benefit from full local hardware performance for demanding applications such as video playback and recreational software.
 
 ---
 
