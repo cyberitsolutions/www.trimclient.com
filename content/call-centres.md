@@ -10,7 +10,9 @@ images:
 
 A call centre workstation has a narrow, well-defined purpose: to run the applications an agent needs to do their job, nothing else. In practice, standard commercial computers make that constraint difficult to enforce and expensive to maintain. Trimclient enforces it architecturally, across every seat, from a single management console.
 
-<iframe src="/infographic/infographic-call-centre.html" width="100%" height="520" frameborder="0" scrolling="no" style="border:none; display:block;"></iframe>
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
+   <iframe src="/infographic/infographic-call-centre.html" width="900" height="520" frameborder="0" scrolling="no" style="border:none; display:block;"></iframe>
+</div>
 
 ## Agent lockdown
 

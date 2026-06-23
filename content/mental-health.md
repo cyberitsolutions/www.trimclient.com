@@ -12,7 +12,9 @@ Residents in long-stay mental health facilities have the same need for connectio
 
 Trimclient addresses all of these requirements from a single managed platform, without requiring residents to navigate complex interfaces or staff to become IT administrators.
 
-<iframe src="/infographic/infographic-mental-health.html" width="100%" height="520" frameborder="0" scrolling="no" style="border:none; display:block;"></iframe>
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
+   <iframe src="/infographic/infographic-mental-health.html" width="900" height="520" frameborder="0" scrolling="no" style="border:none; display:block;"></iframe>
+</div>
 
 ## Resident access to education and media
 
