@@ -8,7 +8,7 @@ summaryLength = 10
 
 [services]
   [services.googleAnalytics]
-    ID = 'G-KP2SCYD47P'
+    ID = 'G-8D83KW6F5T'
 
 [params]
 title = "Trimclient"
