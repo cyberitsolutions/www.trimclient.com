@@ -5,10 +5,6 @@ theme = 'up-business-theme'
 enableRobotsTXT = true
 summaryLength = 10
 
-[privacy]
-  [privacy.googleAnalytics]
-    disable = false
-    respectDoNotTrack = false
 
 [services]
   [services.googleAnalytics]
