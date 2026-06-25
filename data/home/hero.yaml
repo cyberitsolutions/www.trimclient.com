@@ -5,7 +5,10 @@ content:
   eyebrow: "Secure managed computing"
   title: "Built for security."
   subtitle: "Designed for predictable, low-maintenance operation."
-  text: "Trimclient is a purpose-built managed computing platform for high-accountability environments consolidating device management, education, email, and media into a single hardened solution."
+  text: |
+    Trimclient is a purpose-built managed computing platform for high-accountability environments consolidating device management, education, email, and media into a single hardened solution.
+
+    The same platform underpins [PrisonPC](https://prisonpc.com), the managed computing product for adult correctional facilities. If you are looking for a high-security solution for an adult corrections environment, [PrisonPC](https://prisonpc.com) is the right starting point.
   image: "images/consolidated-header.webp"
 
   buttonPrimary:

@@ -44,4 +44,6 @@ Trimclient's architecture removes these risks structurally. There is no writable
 
 The case for managed computing in youth detention is not purely operational. Education during detention is one of the most consistently effective interventions for reducing reoffending, and access to literacy, numeracy, vocational training, and digital skills improves a young person's prospects of employment and stable community participation after release. Managed family contact during detention is also associated with better outcomes, and the combination of structured education and maintained family connection addresses two of the most significant risk factors for reoffending in a way that is practical for staff to manage and does not compromise the security of the environment.
 
+This platform underpins [PrisonPC](https://www.prisonpc.com/), which has been deployed in high-security adult correctional facilities for over twenty years, including at the Alexander Maconochie Centre in the ACT since 2009.
+
 {{< cta a="View full solution" a-url="/features" b="Get in touch" b-url="/#enquiries" >}}
