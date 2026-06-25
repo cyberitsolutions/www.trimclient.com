@@ -519,3 +519,12 @@ div:has(iframe), video { width: 100%; }
     }
   }
 }
+
+// ------------------
+// Make links visible
+// ------------------
+
+.hero p a {
+    text-decoration: underline;
+}
+
